@@ -164,7 +164,7 @@
         {
           "id": 3,
           "titulo": "E-book + Impresso",
-          "preco": 59.9,
+          "preco": 59.6,
           "formatos": [
             ".pdf",
             ".pub",
